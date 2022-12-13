@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on growth.
-- 👯 I’m looking to collaborate on Android Projects and UI website development projects.
+- 👯 I’m looking to collaborate on Android Projects and Web3 projects.
 - 🤔 I’m looking for help with Kotlin and backend development Projects
 - 📫 How to reach me: bratipahmh@gmail.com
 - 😄 Pronouns: she/her
