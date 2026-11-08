@@ -1,9 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on growth.
-- 👯 I’m looking to collaborate on Web3 projects that create an impact using smart contracts .
-- 🤔 I’m looking for help with Open source contribuiton, zkps, infra & dev tooling web3 smartcontracts and backend development Projects
+- 👯 I’m looking to collaborate on Ai engineer & web3 protocol scale projects that create an impact on humanity, finance & sustainable development .
+- 🤔 I’m looking for help with Open source contribuiton, post-quantum cryptography, system design & FDE focused Projects, infra & dev tooling web3 smartcontracts & AI governance & voice projects
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Can't stop Solving!!
+- ⚡ Fun fact: Can't stop Solving and figure out the distribution!!
 
 <!--
 **Bratipah/Bratipah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
